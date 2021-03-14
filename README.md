@@ -11,6 +11,6 @@ EXL was required to develop a tool for a US public health client to predict dail
 ## Solution Design
 Used the provided dataset to develop a model which can forecast the number of new Covid-19 cases at a country level:
 1. Used XGBoost Regressor model to predict the number of daily new Covid-19 cases.
-2. Used fbprophet for time-series forecasting based on an additive model to predict the future observations.
+2. Used Fbprophet for time-series forecasting based on an additive model to predict the future observations.
 
 
